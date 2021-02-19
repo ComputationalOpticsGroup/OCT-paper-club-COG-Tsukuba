@@ -2,6 +2,16 @@
 
 This is a summary of brief survey of modeling of polarization-sensitive optical coherence tomography (PS-OCT).
 
+## History
+
+- 2021/02/19:
+  The material was revised.
+  - Change descriptions of notations and coordinate systems.
+  - Notations of round-trip path with two coordinate systems.
+
+- 2021/02/15:
+  [The original version presented (video version)](https://github.com/ComputationalOpticsGroup/OCT-paper-club-COG-Tsukuba/blob/9f506f9881be68eb9498f795147e6260dfa6fa25/2021-02-15_Makita_ModelingPSOCT/OCTpaperClub202102_makita.pptx)
+
 ## References
 
 - [G. Yao and L. V. Wang, "Monte Carlo simulation of an optical coherence tomography signal in homogeneous turbid media," Phys. Med. Biol. 44(9), 2307–2320 (1999).](https://doi.org/10.1088/0031-9155/44/9/316)
